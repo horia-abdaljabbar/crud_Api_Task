@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\dtos\\employee\\deleteemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\dtos\\employee\\deleteemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\dtos\\employee\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\dtos\\employee\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\dtos\\employee\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\dtos\\employee\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\dtos\\employee\\getallemployeesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\dtos\\employee\\getallemployeesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\dtos\\employee\\getemployeebyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\dtos\\employee\\getemployeebyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\dtos\\department\\getdepartmentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\dtos\\department\\getdepartmentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\apicrudnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\apicrudnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\dtos\\department\\deletedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\dtos\\department\\deletedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\dtos\\department\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\dtos\\department\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\dtos\\department\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\dtos\\department\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\dtos\\department\\getdepartmentbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\dtos\\department\\getdepartmentbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Migrations\\20241113093057_relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiCrudNew\\Migrations\\20241113093057_relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\migrations\\20241113092900_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\migrations\\20241113092900_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|c:\\users\\ibrah\\desktop\\apicrudnew\\apicrudnew\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E584FF8-2AF4-41A3-BA11-D545A44986B1}|ApiCrudNew\\ApiCrudNew.csproj|solutionrelative:apicrudnew\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Employee\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\DTOs\\Employee\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Employee\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "ApiCrudNew\\DTOs\\Employee\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:11:25.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "ApiCrudNew\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:14:16.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\Data\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Data\\Models\\Department.cs",
+              "RelativeToolTip": "ApiCrudNew\\Data\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:15:47.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "ApiCrudNew\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:14:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Employee\\DeleteEmployeeDto.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\DTOs\\Employee\\DeleteEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Employee\\DeleteEmployeeDto.cs",
+              "RelativeToolTip": "ApiCrudNew\\DTOs\\Employee\\DeleteEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:04:20.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\Data\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Data\\Models\\Employee.cs",
+              "RelativeToolTip": "ApiCrudNew\\Data\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:15:36.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Employee\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\DTOs\\Employee\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Employee\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "ApiCrudNew\\DTOs\\Employee\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:55:24.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllEmployeesDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Employee\\GetAllEmployeesDto.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\DTOs\\Employee\\GetAllEmployeesDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Employee\\GetAllEmployeesDto.cs",
+              "RelativeToolTip": "ApiCrudNew\\DTOs\\Employee\\GetAllEmployeesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:02:37.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetEmployeeByIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Employee\\GetEmployeeByIdDto.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\DTOs\\Employee\\GetEmployeeByIdDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Employee\\GetEmployeeByIdDto.cs",
+              "RelativeToolTip": "ApiCrudNew\\DTOs\\Employee\\GetEmployeeByIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:03:46.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiCrudNew",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\ApiCrudNew.csproj",
+              "RelativeDocumentMoniker": "ApiCrudNew\\ApiCrudNew.csproj",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\ApiCrudNew.csproj",
+              "RelativeToolTip": "ApiCrudNew\\ApiCrudNew.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T09:58:07.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetDepartmentsDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Department\\GetDepartmentsDto.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\DTOs\\Department\\GetDepartmentsDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Department\\GetDepartmentsDto.cs",
+              "RelativeToolTip": "ApiCrudNew\\DTOs\\Department\\GetDepartmentsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:35:43.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Department\\DeleteDepartmentDto.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\DTOs\\Department\\DeleteDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Department\\DeleteDepartmentDto.cs",
+              "RelativeToolTip": "ApiCrudNew\\DTOs\\Department\\DeleteDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:39:46.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Department\\UpdateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\DTOs\\Department\\UpdateDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Department\\UpdateDepartmentDto.cs",
+              "RelativeToolTip": "ApiCrudNew\\DTOs\\Department\\UpdateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:40:17.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetDepartmentById.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Department\\GetDepartmentById.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\DTOs\\Department\\GetDepartmentById.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Department\\GetDepartmentById.cs",
+              "RelativeToolTip": "ApiCrudNew\\DTOs\\Department\\GetDepartmentById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:39:16.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Department\\CreateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\DTOs\\Department\\CreateDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\DTOs\\Department\\CreateDepartmentDto.cs",
+              "RelativeToolTip": "ApiCrudNew\\DTOs\\Department\\CreateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:30:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241113093057_relation.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Migrations\\20241113093057_relation.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\Migrations\\20241113093057_relation.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Migrations\\20241113093057_relation.cs",
+              "RelativeToolTip": "ApiCrudNew\\Migrations\\20241113093057_relation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:30:57.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241113092900_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Migrations\\20241113092900_initial.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\Migrations\\20241113092900_initial.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Migrations\\20241113092900_initial.cs",
+              "RelativeToolTip": "ApiCrudNew\\Migrations\\20241113092900_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:29:01.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Program.cs",
+              "RelativeToolTip": "ApiCrudNew\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:21:39.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiCrudNew\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\appsettings.json",
+              "RelativeToolTip": "ApiCrudNew\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T09:21:59.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApiCrudNew\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ApiCrudNew\\ApiCrudNew\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApiCrudNew\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:15:11.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
